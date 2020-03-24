@@ -1,0 +1,45 @@
+
+.title {
+  font-size: 38px;
+  color: #07DDEB;
+  text-align: center;
+}
+.author {
+  font-size: 18px;
+  font-family: "Arial", Times, serif;
+  color: #076FEB;
+  text-align: center;
+}
+.date {
+  font-size: 18px;
+  font-family: "Arial", Times, serif;
+  color: #076FEB;
+  text-align: center;
+}
+
+.place {
+  font-size: 18px;
+  font-family: "Arial", Times, serif;
+  color: DarkBlue;
+  text-align: center;
+}
+
+.titulo_principal{
+  color:#4B9D92;
+  font-family: "Arial", Times, serif;
+  text-align: center;
+  width: 100%;
+}
+
+.titulo{
+  color:#45A6C1;
+  font-family: "Arial", Times, serif;
+  text-align: center;
+  width: 100%;
+}
+
+.parrafo{
+  color:#07627B;
+  font-family: "Arial", Times, serif;
+  text-align: justify;
+}
